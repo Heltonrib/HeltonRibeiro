@@ -1,13 +1,12 @@
-
-<h1 align="center">Olá, eu sou <b>Helton Ribeiro</b> 👋</h1>
+<h1 align="center">Hi, I'm <b>Helton Ribeiro</b> 👋</h1>
 <h3 align="center">Computer Engineering | Full-Stack Engineer | Microservices & APIs</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/helton-ribeiro-72327029a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:ribeirohelton893@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Heltonrib">
     <img src="https://img.shields.io/badge/GitHub-Heltonrib-black?style=for-the-badge&logo=github" />
@@ -16,55 +15,55 @@
 
 ---
 
-## Sobre mim
+## About Me
 
-- Concluí o **4.º ano** da Licenciatura em **Engenharia Informática**  
-- **TCC entregue** (falta apenas a **defesa**)  
-- **1 ano de experiência profissional** em desenvolvimento **backend** para uma plataforma em produção  
-- Atuação com **Java + Spring Boot**, trabalhando com **MongoDB** e **PostgreSQL**  
-- Também contribuí no **frontend**, incluindo a construção de um **site de e-commerce em React**  
-- No **TCC**, desenvolvi um sistema web com **PHP + Bootstrap** e **MySQL**  
-- Interesso-me por soluções **modernas, funcionais e escaláveis**, com foco em **qualidade**, **boa arquitetura** e **código limpo**
+- Completed the **4th year** of my Bachelor's degree in **Computer Engineering**
+- **Final thesis (TCC) submitted** — only the **defense** is pending
+- **1 year of professional experience** in **backend development** for a production platform
+- Worked with **Java + Spring Boot**, using **MongoDB** and **PostgreSQL**
+- Also contributed to **frontend development**, including building an **e-commerce website with React**
+- For my **thesis (TCC)**, I developed a web system using **PHP + Bootstrap** with **MySQL**
+- Passionate about building **modern, functional, and scalable** solutions, focused on **quality**, **clean architecture**, and **clean code**
 
 ---
 
 ## Tech Stack
 
-**Linguagens & Frameworks**
+**Languages & Frameworks**
 - Java (Spring Boot)
 - Python (FastAPI)
 - JavaScript (React)
 - PHP (Bootstrap)
 
-**Bases de dados**
+**Databases**
 - MongoDB
 - PostgreSQL
 - MySQL
 
-**Ferramentas**
+**Tools**
 - Git & GitHub
-- Docker (se você usa, deixe; se não, pode remover)
-- APIs REST • Microservices
+- Docker (keep if you use it; otherwise remove)
+- REST APIs • Microservices
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,react,php,laravel,mongodb,postgres,mysql,git,github,docker" />
 </p>
 
+---
 
+## Featured Projects
 
-## Projetos em destaque
-
-- 🧩 **Backend (Java + Spring Boot)** — APIs e microserviços, integração com MongoDB e PostgreSQL  
-- 🛒 **E-commerce (React)** — frontend moderno e responsivo  
-- 🎓 **TCC (PHP + Bootstrap + MySQL)** — sistema web acadêmico
-
-
-
-## Como falar comigo
-
-- LinkedIn: https://www.linkedin.com/in/SEU_LINK/
-
+- 🧩 **Backend (Java + Spring Boot)** — APIs and microservices, MongoDB & PostgreSQL integration  
+- 🛒 **E-commerce (React)** — modern and responsive frontend  
+- 🎓 **Thesis Project (PHP + Bootstrap + MySQL)** — academic web system  
 
 ---
 
-<p align="center"><i>“Vamos construir soluções com impacto real.”</i> 🚀</p>
+## Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/helton-ribeiro-72327029a/
+- Email: ribeirohelton893@gmail.com
+
+---
+
+<p align="center"><i>“Let’s build solutions with real impact.”</i> 🚀</p>
