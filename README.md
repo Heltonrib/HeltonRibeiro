@@ -18,13 +18,13 @@
 
 ## Sobre mim
 
-- ✅ Concluí o **4.º ano** da Licenciatura em **Engenharia Informática**  
-- 📌 **TCC entregue** (falta apenas a **defesa**)  
-- 💼 **1 ano de experiência profissional** em desenvolvimento **backend** para uma plataforma em produção  
-- ⚙️ Atuação com **Java + Spring Boot**, trabalhando com **MongoDB** e **PostgreSQL**  
-- 💻 Também contribuí no **frontend**, incluindo a construção de um **site de e-commerce em React**  
-- 🎓 No **TCC**, desenvolvi um sistema web com **PHP + Bootstrap** e **MySQL**  
-- 🎯 Interesso-me por soluções **modernas, funcionais e escaláveis**, com foco em **qualidade**, **boa arquitetura** e **código limpo**
+- Concluí o **4.º ano** da Licenciatura em **Engenharia Informática**  
+- **TCC entregue** (falta apenas a **defesa**)  
+- **1 ano de experiência profissional** em desenvolvimento **backend** para uma plataforma em produção  
+- Atuação com **Java + Spring Boot**, trabalhando com **MongoDB** e **PostgreSQL**  
+- Também contribuí no **frontend**, incluindo a construção de um **site de e-commerce em React**  
+- No **TCC**, desenvolvi um sistema web com **PHP + Bootstrap** e **MySQL**  
+- Interesso-me por soluções **modernas, funcionais e escaláveis**, com foco em **qualidade**, **boa arquitetura** e **código limpo**
 
 ---
 
@@ -50,16 +50,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,react,php,laravel,mongodb,postgres,mysql,git,github,docker" />
 </p>
 
----
 
-## Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true" />
-</p>
-
----
 
 ## Projetos em destaque
 
