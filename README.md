@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Heltonrib">
-    <img src="https://img.shields.io/badge/GitHub-SEU_USERNAME-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Heltonrib-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
